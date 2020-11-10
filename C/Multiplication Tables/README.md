@@ -1,7 +1,7 @@
 # Multiplication Tables
 This program contains 2 functions:
-* Calculates and prints square multiplication tables.
-* Calculates and prints multiplication tables between the range of 2 numbers.
+1. Calculates and prints square multiplication tables.
+2. Calculates and prints multiplication tables between the range of 2 numbers.
 
 The program takes 1 input for the 1<sup>st</sup> function. For example, an input of "5" would result in a 5x5 table starting at 1x1 and ending in 5x5.
 
