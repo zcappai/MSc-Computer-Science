@@ -1,6 +1,6 @@
 # Prints 2D lists with a rectangular pattern of '#' symbols
-# e.g.  ['#', '#', '#'], 
-#       ['#', ' ', '#'], 
+# e.g.  ['#', '#', '#']
+#       ['#', ' ', '#']
 #       ['#', '#', '#'] for rectangle(3, 3)
 def rectangle(n, m):
     Array = []
