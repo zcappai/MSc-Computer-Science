@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * Complete the fibonacci function below such that it calculates the 
+ * The fibonacci function below calculates the 
  * nth term of the Fibonacci sequence using iteration.
  * 
  * The first 4 terms of the Fibonacci sequence in this example 
