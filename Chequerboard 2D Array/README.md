@@ -1,5 +1,5 @@
 # Chequerboard 2D Array
-This program takes an input of 4 integers and prints a 2D array of the input size, with '#' symbols in a chequerboard shape.
+This program takes an input of 4 integers and prints a 2D array of the input size, with '#' symbols in a chequerboard pattern.
 All input integers must be greater than or equal to 1.
 
 The inputs include:
