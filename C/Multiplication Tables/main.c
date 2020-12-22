@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /* 
- Modify the function below so that it prints out the square multiplication tables for any number.  How might you modify this function, or add a new function, so it prints out the multiplication tables for any range of numbers?
+ The 1st function below prints out the square multiplication tables for any number.
+ The 2nd function below prints out the multiplication tables for any range of numbers given as input.
 
  */
 
