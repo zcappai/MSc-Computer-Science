@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* 
- * Complete the recursive function below which performs multiplication of two 
+ * The recursive function below performs multiplication of two 
  * numbers without using the inbuilt * sign
  */
 
