@@ -15,16 +15,7 @@ int multiply(int number, int by){
   else if (by == 0) {
     return 0;
   }
-  /* case for multiplication by negative number */
-  else if (by == -1) {
-    return -number;
-  }
   /* else statements runs while number isn't last in sequence */
-  /* recursion for negative numbers */
-  else if (by < -1) {
-    return -number + multiply(number, by + 1);
-  }
-  /* recursion for positive numbers */
   else {
     return number + multiply(number, by - 1);
   }
